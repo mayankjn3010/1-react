@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import About from "./components/About";
 import "./App.scss";
-import "./styles/header.scss";
+import "./styles/header.scsjgs";
 
 function App() {
   return ( 
