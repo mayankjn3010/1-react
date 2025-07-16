@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "icons": "^1.0.0",
+    "react-router-dom": "^7.6.3",
+    "saas": "^1.0.0",
+    "sass": "^1.89.2"
+  }
+}
